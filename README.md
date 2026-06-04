@@ -42,4 +42,4 @@ You can submit a pull request or raise an issue with your ideas.
 
 ---
 
-Thanks for checking out the project! 😊   
+Thanks for checking out the project! 
